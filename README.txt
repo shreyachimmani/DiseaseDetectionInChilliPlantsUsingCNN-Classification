@@ -13,5 +13,5 @@ Note:The dataset is large, so please be patient during download.
 How to use the dataset?
 1. Download the dataset from the link above.
 2. Extract the files into a folder named `dataset` in the root directory of this project.
-3. Run the code as per instructions refer to screens.txt for beter understanding and implementation of project
+3. Run the code as per instructions refer to screens.docs for beter understanding and implementation of project
 
